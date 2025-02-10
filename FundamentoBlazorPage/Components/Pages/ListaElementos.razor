@@ -1,0 +1,17 @@
+﻿@page "/Lista"
+@inherits ListaElementos 
+<h3>Lista de Elementos</h3>
+
+<ul>
+    @foreach( var elemento in elementos) {
+        <li>@elemento</li>
+    }
+</ul>
+
+<input type="text" @bind="nuevoElemento" placeholder="Nuevo elemento.."/>
+
+<button @onclick="AgregarElementos">Agregar</button>
+@code {
+
+
+}

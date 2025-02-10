@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wip\\Cursos\\Clean Architecture\\Blazor\\FundamentoBlazorPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F69ADD7A-92FA-426B-9DAE-06899C10E2C4}|FundamentoBlazorPage\\FundamentoBlazorPage.csproj|c:\\wip\\cursos\\clean architecture\\blazor\\fundamentoblazorpage\\fundamentoblazorpage\\components\\pages\\listaelementos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F69ADD7A-92FA-426B-9DAE-06899C10E2C4}|FundamentoBlazorPage\\FundamentoBlazorPage.csproj|solutionrelative:fundamentoblazorpage\\components\\pages\\listaelementos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69ADD7A-92FA-426B-9DAE-06899C10E2C4}|FundamentoBlazorPage\\FundamentoBlazorPage.csproj|c:\\wip\\cursos\\clean architecture\\blazor\\fundamentoblazorpage\\fundamentoblazorpage\\components\\pages\\listaelementos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69ADD7A-92FA-426B-9DAE-06899C10E2C4}|FundamentoBlazorPage\\FundamentoBlazorPage.csproj|solutionrelative:fundamentoblazorpage\\components\\pages\\listaelementos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69ADD7A-92FA-426B-9DAE-06899C10E2C4}|FundamentoBlazorPage\\FundamentoBlazorPage.csproj|c:\\wip\\cursos\\clean architecture\\blazor\\fundamentoblazorpage\\fundamentoblazorpage\\components\\pages\\otrocontador.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F69ADD7A-92FA-426B-9DAE-06899C10E2C4}|FundamentoBlazorPage\\FundamentoBlazorPage.csproj|solutionrelative:fundamentoblazorpage\\components\\pages\\otrocontador.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69ADD7A-92FA-426B-9DAE-06899C10E2C4}|FundamentoBlazorPage\\FundamentoBlazorPage.csproj|c:\\wip\\cursos\\clean architecture\\blazor\\fundamentoblazorpage\\fundamentoblazorpage\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F69ADD7A-92FA-426B-9DAE-06899C10E2C4}|FundamentoBlazorPage\\FundamentoBlazorPage.csproj|solutionrelative:fundamentoblazorpage\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListaElementos.cs",
+              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\Blazor\\FundamentoBlazorPage\\FundamentoBlazorPage\\Components\\Pages\\ListaElementos.cs",
+              "RelativeDocumentMoniker": "FundamentoBlazorPage\\Components\\Pages\\ListaElementos.cs",
+              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\Blazor\\FundamentoBlazorPage\\FundamentoBlazorPage\\Components\\Pages\\ListaElementos.cs",
+              "RelativeToolTip": "FundamentoBlazorPage\\Components\\Pages\\ListaElementos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:04:55.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaElementos.razor",
+              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\Blazor\\FundamentoBlazorPage\\FundamentoBlazorPage\\Components\\Pages\\ListaElementos.razor",
+              "RelativeDocumentMoniker": "FundamentoBlazorPage\\Components\\Pages\\ListaElementos.razor",
+              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\Blazor\\FundamentoBlazorPage\\FundamentoBlazorPage\\Components\\Pages\\ListaElementos.razor",
+              "RelativeToolTip": "FundamentoBlazorPage\\Components\\Pages\\ListaElementos.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T13:04:02.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\Blazor\\FundamentoBlazorPage\\FundamentoBlazorPage\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "FundamentoBlazorPage\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\Blazor\\FundamentoBlazorPage\\FundamentoBlazorPage\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "FundamentoBlazorPage\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T12:49:24.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OtroContador.razor",
+              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\Blazor\\FundamentoBlazorPage\\FundamentoBlazorPage\\Components\\Pages\\OtroContador.razor",
+              "RelativeDocumentMoniker": "FundamentoBlazorPage\\Components\\Pages\\OtroContador.razor",
+              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\Blazor\\FundamentoBlazorPage\\FundamentoBlazorPage\\Components\\Pages\\OtroContador.razor",
+              "RelativeToolTip": "FundamentoBlazorPage\\Components\\Pages\\OtroContador.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T12:48:00.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
